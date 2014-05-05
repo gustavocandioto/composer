@@ -1,0 +1,7 @@
+{
+    "name": "gustavocandioto/composer",
+    "description": "Teste do composer",
+    "require": {
+        "php": ">=5.3",
+    }
+}
